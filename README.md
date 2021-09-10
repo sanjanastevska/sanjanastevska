@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in challenging position in a new area of IT where I can may continualy learn and grow my carrer.
 - 🌱 I’m currently learning JavaScript, Node.js and React and working on few repos. 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanja-nastevska)
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/sanja-nastevska)
 
 :rocket: **Technology Stack**
 
